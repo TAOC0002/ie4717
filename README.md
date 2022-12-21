@@ -1,12 +1,19 @@
 # ie4717
 A dental clinic website (IE4717 course project)
 - To run MySQL and MariaDB, I used the software tool phpMyAdmin
+
 ## Site Map
-
+<img src="sitemap.png"
+     style="float: left; margin-right: 10px;" />
+     
 ## Storyboard
-
+<img src="storyboard.png"
+     style="float: left; margin-right: 10px;" />
+     
 ## Database
-
+<img src="database.png"
+     style="float: left; margin-right: 10px;" />
+     
 ## Web Application Testing Plan
 | Test Name | Applicable Roles | Descriptions |
 | --------- | ---------------- | ------------ |
