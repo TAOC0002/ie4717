@@ -3,15 +3,15 @@ A dental clinic website (IE4717 course project)
 - To run MySQL and MariaDB, I used the software tool phpMyAdmin
 
 ## Site Map
-<img src="sitemap.png"
+<img src="images/sitemap.png"
      style="float: left; margin-right: 10px;" />
      
 ## Storyboard
-<img src="storyboard.png"
+<img src="images/storyboard.png"
      style="float: left; margin-right: 10px;" />
      
 ## Database
-<img src="database.png"
+<img src="images/database.png"
      style="float: left; margin-right: 10px;" />
      
 ## Web Application Testing Plan
