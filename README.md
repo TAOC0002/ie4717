@@ -1,6 +1,6 @@
 # ie4717
 Jurong West Dental Clinic Website
-- This is a course project for __IE4717 Web Application and Design__ offered by the __School of Electrical and Electronic Engineering (EEE)__, __Nanyang Technological University (NTU)__
+- This is a course project for __IE4717 Web Application and Design__, offered by the __School of Electrical and Electronic Engineering (EEE)__, __Nanyang Technological University (NTU)__ in Fall 2022.
 - To run MySQL and MariaDB, I used the software tool phpMyAdmin
 
 ## Site Map
