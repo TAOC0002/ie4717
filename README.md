@@ -1,5 +1,6 @@
 # ie4717
-A dental clinic website (IE4717 course project)
+Jurong West Dental Clinic Website
+- This is a course project for IE4717 Web Application and Design offered by the school of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU)
 - To run MySQL and MariaDB, I used the software tool phpMyAdmin
 
 ## Site Map
