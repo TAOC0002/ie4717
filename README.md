@@ -4,11 +4,10 @@ A dental clinic website (IE4717 course project)
 
 ## Site Map
 <img src="images/sitemap.png"
-     style="float: left; margin-right: 10px;" />
+     style="width: 70%;" />
      
 ## Storyboard
-<img src="images/storyboard.png"
-     style="float: left; margin-right: 10px;" />
+<img src="images/storyboard.png" />
      
 ## Database
 <img src="images/database.png"
