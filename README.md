@@ -12,7 +12,7 @@ A dental clinic website (IE4717 course project)
      
 ## Database
 <img src="images/database.png"
-     style="float: left; margin-right: 10px;" />
+     style="width: 50%;" />
      
 ## Web Application Testing Plan
 | Test Name | Applicable Roles | Descriptions |
